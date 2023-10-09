@@ -1,0 +1,14 @@
+[project]
+name = "wab.hello-world"
+version = "1.0.0"
+description = "Simple hello world service"
+authors = [
+    {name = "Tomykulak", email = "tomasokruhlica@seznam.cz"},
+]
+dependencies = [
+    
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
