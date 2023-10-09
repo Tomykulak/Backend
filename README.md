@@ -14,3 +14,12 @@ Webove aplikace: Backend
     - pdm add -d pytest
 
  - Rest Framework: FastAPI
+Docker Container
+  - Docker Image
+    - copy.soubor
+    - run soubor
+    - install pdm
+    - install configy
+    - run pdm install
+    - src
+    - uvicorn
