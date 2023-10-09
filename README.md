@@ -8,5 +8,7 @@ Webove aplikace: Backend
     - pdm install fastapi
     - pdm add "uvicorn[standard]"
     - pdm install
+    - download python
+    - uvicorn main:app --reload
 
  - Rest Framework: FastAPI
