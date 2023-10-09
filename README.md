@@ -6,5 +6,7 @@ Webove aplikace: Backend
     - Command to check: pdm
     - pdm init
     - pdm install fastapi
+    - pdm add "uvicorn[standard]"
+    - pdm install
 
  - Rest Framework: FastAPI
