@@ -1,0 +1,6 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+pymongo==4.0.1
+authlib==0.15.4
+starlette==0.14.2
+grpcio==1.44.0
